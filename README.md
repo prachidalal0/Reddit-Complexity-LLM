@@ -9,9 +9,6 @@ A specialized language model designed to analyze and quantify linguistic complex
 - [Dataset](#dataset)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Tools and Libraries](#tools-and-libraries)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Work](#future-work)
 - [License](#license)
 
 ---
@@ -67,3 +64,16 @@ The custom evaluation metric includes:
 - **Transformers**: Hugging Face library for transformer-based models.
 - **NumPy/Pandas**: For data manipulation.
 - **Matplotlib/Seaborn**: For data visualization.
+
+---
+
+## Contact
+Feel free to reach out for collaborations or inquiries:
+- **Email**: prachidalal084@gmail.com
+- **LinkedIn**: [Prachi Dalal](https://www.linkedin.com/in/prachidalal2/)
+- **GitHub**: [@prachidalal0](https://github.com/prachidalal0)
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE).
