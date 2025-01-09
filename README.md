@@ -1,4 +1,4 @@
-# Reddit Complexity LLM
+# Reddit Complexity LLM (WIP)
 
 A specialized language model designed to analyze and quantify linguistic complexity in Reddit comments. This project serves as a foundational step in exploring the relationship between language, conceptual complexity, and socioeconomic patterns.
 
